@@ -6,3 +6,7 @@ function fun1(){
 function funname(){
 	console.log('welcom');
 }
+
+function fun3(){
+	
+}
