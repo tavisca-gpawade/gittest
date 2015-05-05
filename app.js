@@ -11,6 +11,3 @@ function fun3(){
 
 }
 
-function fun4(){
-	
-}
