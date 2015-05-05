@@ -7,7 +7,5 @@ function funname(){
 	console.log('welcom');
 }
 
-function fun3(){
 
-}
 
